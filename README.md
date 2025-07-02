@@ -1,2 +1,1 @@
-# abgsquirtmuncrat
-abgsquirtmuncrat
+# [abgsquirtmuncrat](https://abgsquirtmuncrat.pages.dev)
